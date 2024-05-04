@@ -45,6 +45,3 @@ python train.py --help
 ## Acknowledgements
 
  - [Deep Convolutional GAN](https://paperswithcode.com/method/dcgan)
-
-
-readme.so
